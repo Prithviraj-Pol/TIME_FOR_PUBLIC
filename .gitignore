@@ -1,0 +1,9 @@
+#Python
+venv/
+__pycache__/
+*.pyc
+
+#flutter
+.dart_tool/
+build/
+.flutter_plugins
